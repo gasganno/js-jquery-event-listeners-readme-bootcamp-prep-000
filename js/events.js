@@ -35,25 +35,6 @@ submitIt()
 
 });
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*
 function getIt() {
   $("p").on("click", function() {
